@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: 'i3',
+    name: 'info',
     version: '1.1.1',
     hasPermssion: 0,
     credits: '',
